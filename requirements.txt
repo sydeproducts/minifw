@@ -1,0 +1,4 @@
+watchdog
+rich
+fastapi
+uvicorn[standard]
